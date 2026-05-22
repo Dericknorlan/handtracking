@@ -1,4 +1,4 @@
-# Virtual Touchscreen Interface for Piano Tiles
+# Virtual Touchscreen Interface for Piano Tiles/OSU Mania
 
 <p align="center">
   <img src="https://github.com/Dericknorlan/handtracking/blob/main/Images/Example.png" alt="">
